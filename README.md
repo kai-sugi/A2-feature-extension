@@ -5,8 +5,11 @@ Armadillo Dance Game
 CONTROLS:
 
 W -- move sphere forward
+
 A -- move sphere left
+
 S -- move sphere backward
+
 D -- move sphere right
 
 B - toggle dance on / off
@@ -14,14 +17,21 @@ B - toggle dance on / off
 Space - jump
 
 Poses (while dancing)
+
 Z -- Hands Up
+
 X -- Lean
+
 C -- Flex
+
 V -- Disco
 
 Songs
+
 1 -- Song 1 (BPM = 128)
+
 2 -- Song 2 (BPM = 130)
+
 3 -- Song 3 (BPM = 130)
 
 HOW TO PLAY
